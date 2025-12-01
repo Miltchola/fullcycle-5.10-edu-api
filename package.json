@@ -1,5 +1,5 @@
 {
-  "name": "eduLearn",
+  "name": "edulearn",
   "version": "1.0.0",
   "description": "Microserviço de usuários com autenticação JWT (Express) criado para disciplina de Segurança no Processo de desenvolvimento de software",
   "main": "index.js",
